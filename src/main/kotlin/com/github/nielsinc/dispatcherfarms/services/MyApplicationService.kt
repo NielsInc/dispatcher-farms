@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nielsinc.dispatcherfarms.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nielsinc.dispatcherfarms.MyBundle
 
 class MyApplicationService {
 
